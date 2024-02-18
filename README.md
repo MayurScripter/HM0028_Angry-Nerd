@@ -21,18 +21,15 @@ Safeguarding EHRs involves employing various security    protocols, encryption t
    Document upload: Firebase
 
    ## Screenshots
+![WhatsApp Image 2024-02-18 at 1 40 45 PM](https://github.com/MayurScripter/HM0028_Angry-Nerd/assets/156816036/a976353a-7dc4-47c0-b085-e84a5d58c016)
+![WhatsApp Image 2024-02-18 at 1 40 46 PM](https://github.com/MayurScripter/HM0028_Angry-Nerd/assets/156816036/64ee7d11-c289-4987-87a6-482804fad386)
+![WhatsApp Image 2024-02-18 at 1 40 46 PM (1)](https://github.com/MayurScripter/HM0028_Angry-Nerd/assets/156816036/e5c18bf7-c216-4ad7-8e70-76458519e044)
+![WhatsApp Image 2024-02-18 at 1 40 47 PM](https://github.com/MayurScripter/HM0028_Angry-Nerd/assets/156816036/800aca50-e130-4b65-ab7e-ef1663f09bca)
+![WhatsApp Image 2024-02-18 at 1 40 47 PM (1)](https://github.com/MayurScripter/HM0028_Angry-Nerd/assets/156816036/4b4fd1bc-9f16-40ac-b5a5-57f9a257d3bc)
+![WhatsApp Image 2024-02-18 at 1 40 48 PM](https://github.com/MayurScripter/HM0028_Angry-Nerd/assets/156816036/a9089761-17c3-4467-8218-dcde129c6b5e)
 
+## Deployed url
 
-
-
-
-
-
-
-
-
-
-   ## Deployed url
 
 
    ## Video url
