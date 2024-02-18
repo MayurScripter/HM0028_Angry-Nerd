@@ -30,6 +30,8 @@ Safeguarding EHRs involves employing various security    protocols, encryption t
 
 ## Deployed url
 
+https://drive.google.com/file/d/1xNMtOLmJfUi31IuUdYyy65xOS9ePyqGl/view?usp=sharing
+
 
 
    ## Video url
